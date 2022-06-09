@@ -1,0 +1,15 @@
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\DataAccess.dll
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.dll
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
