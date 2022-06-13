@@ -20,11 +20,11 @@ namespace DataAccess.Models
         public int RoleId { get; set; }
         public int PubId { get; set; }
         public DateTime HireDate { get; set; }
+        
         [System.Text.Json.Serialization.JsonIgnore]
-
         public virtual Role Role { get; set; }
+        
         [System.Text.Json.Serialization.JsonIgnore]
-
         public virtual Publisher Publisher { get; set; }
 
     }

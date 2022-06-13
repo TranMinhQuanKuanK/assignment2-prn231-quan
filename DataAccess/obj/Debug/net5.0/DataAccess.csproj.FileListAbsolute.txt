@@ -13,3 +13,18 @@ I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assig
 I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 I:\ONEDRIVE\OneDrive - Đại học FPT- FPT University\FPT\PRN_Advanced_2\Assignment\Assignment2\Assignment2\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\01_Docs\FPT_University\CN8\PRN231\Assignments\assignment2-prn231-quan\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

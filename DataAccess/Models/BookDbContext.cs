@@ -29,7 +29,7 @@ namespace DataAccess.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=localhost;database=BookDataBase;user=SWP;password=SWPPassword");
+            optionsBuilder.UseSqlServer("server=(local);uid=quannpm;pwd=admin;database=BookDataBase");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

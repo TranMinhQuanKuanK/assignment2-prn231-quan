@@ -1,0 +1,98 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Books</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<form asp-page="./Index" method="GET">
+    <div class="form-actions no-color">
+        <p>
+            Find by name:
+            <input type="text" name="SearchName" value="@Model.SearchName"/><br/>
+            Find by price:
+            <input type="number" name="SearchPrice" value="@Model.SearchPrice"/><br/>
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-page="./Index">Clear</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Advance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Royalty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].YtdSale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].PublishedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Publisher)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Book) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Advance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Royalty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YtdSale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublishedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher.PubId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.BookId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.BookId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.BookId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

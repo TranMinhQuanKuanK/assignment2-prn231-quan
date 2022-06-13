@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BusinessLayer.DTO;
 
 namespace BusinessLayer.Repository
 {
@@ -44,6 +45,13 @@ namespace BusinessLayer.Repository
         {
             var entity = GetById(id);
             _dbSet.Remove(entity);
+        }
+
+        public User Login(LoginCreateModel model)
+        {
+            var user = _dbSet.FirstOrDefault(u => u.EmailAddress == model.Email
+                                                  && u.Password == model.Password);
+            return user;
         }
     }
 }
